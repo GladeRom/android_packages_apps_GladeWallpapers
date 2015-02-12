@@ -1,0 +1,5 @@
+[gerrit]
+host=gerrit.aogp-devs.com
+port=29418
+project=packages_apps_GladeWallpapers.git
+defaultbranch=lp5.0
